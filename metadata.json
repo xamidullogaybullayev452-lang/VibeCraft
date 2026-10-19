@@ -1,0 +1,6 @@
+{
+  "name": "CreatorLab - Kontent Yaratish Platformasi",
+  "description": "O‘quvchilar, yoshlar va yangi blogerlar uchun video g‘oyalari, ssenariylar va kontent rejalari yaratish platformasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
